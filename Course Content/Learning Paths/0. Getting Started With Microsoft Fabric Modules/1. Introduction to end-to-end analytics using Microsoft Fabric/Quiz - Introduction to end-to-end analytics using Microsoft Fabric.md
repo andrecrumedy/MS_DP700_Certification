@@ -10,21 +10,21 @@
 What is Microsoft Fabric, and what key problem does it solve for organizations?
 
 **Your Answer:**
-
+[Researched first] Microsoft Fabric is a unified solution that combine many Microsoft SaaS. It solve the problem of silos and disparate use of services.
 ---
 
 ### Question 2
 List all six core services/workloads that Microsoft Fabric provides:
 
 **Your Answer:**
-
+[Researched first] Data Engineering, Data Integration, Data Warehousing, Real-Time intelligence, Data Science, and Business Intelligence. 
 ---
 
 ### Question 3
 What is the deployment model of Microsoft Fabric (SaaS, PaaS, IaaS)?
 
 **Your Answer:**
-
+The deployment model is a PaaS, platform as a service. 
 ---
 
 ## Section 2: OneLake
@@ -33,35 +33,35 @@ What is the deployment model of Microsoft Fabric (SaaS, PaaS, IaaS)?
 What is OneLake, and what is its primary purpose in Microsoft Fabric?
 
 **Your Answer:**
-
+[Reseaeched first] OneLake a a centralized storage architecture that enables collaboration by elinmanting the need to move or copy data between systems. 
 ---
 
 ### Question 5
 What underlying Azure service is OneLake built on?
 
 **Your Answer:**
-
+ADLSGen2
 ---
 
 ### Question 6
 What is the default storage format for tabular data in OneLake, and why is it important?
 
 **Your Answer:**
-
+parquet
 ---
 
 ### Question 7
 What are Shortcuts in OneLake, and what problem do they solve?
 
 **Your Answer:**
-
+[Researched first] shortcuts are refernces to files or storage locations, allowing access to the cloud data without copying it. 
 ---
 
 ### Question 8
 What formats does OneLake support? (List at least 4)
 
 **Your Answer:**
-
+Delta, parquet, csv, json
 ---
 
 ## Section 3: Workspaces
@@ -70,14 +70,14 @@ What formats does OneLake support? (List at least 4)
 What is a workspace in Microsoft Fabric, and what is its primary function?
 
 **Your Answer:**
-
+[Researched first] A logical container that help you organize and manage your data, reports, and other assets. 
 ---
 
 ### Question 10
 What are the four workspace roles, and what level of access do they provide?
 
 **Your Answer:**
-
+[Researched first] 
 ---
 
 ### Question 11
