@@ -6,7 +6,7 @@ AI-assisted study guide for **Microsoft DP-700** (Implement data engineering sol
 
 ## Objective
 
-Complete the self-directed course **DP-700T00-A: Implement data engineering solutions using Microsoft Fabric**, and use generative AI for quizzing on covered materials and progress documentation.
+Complete the self-directed course **DP-700T00-A: Implement data engineering solutions using Microsoft Fabric**, and use generative AI for quizzing on covered materials and progress documentation. The strategy is to read all the self-directed material, then use AI to reveiw and apply the learning. 
 
 **Primary tool:** Cursor
 
