@@ -1,3 +1,4 @@
+Pre AI_Assisted Learning
 Question 1 of 50
 
 Your organization uses Microsoft Fabric to manage real-time data ingestion from various IoT devices through Azure Event Hubs. The data is processed and stored in a Microsoft Delta Lake for further analysis.

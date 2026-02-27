@@ -1,0 +1,69 @@
+Feedback for Section: Security Options in warehouses
+
+For RLS, can you show me an example of setting a security policy and filter predicate?
+
+How does Dynamic Data Masking relate to RLS?
+
+What are the other DDM I need to be aware of?
+
+Feedback for Section: Spark pools and environments
+
+I remember a question of having to decide if I should turn off a starter pool. Can you elaborate on this scenario?
+
+I also missed the question on using session tags to reuse spark sessions. 
+
+1.2 Quick Quiz Answers
+
+1. delate a tenatn level setting to each domain and assign workspace to domain and specify domain admins. 
+
+2. not sure. Elaborate on this section. 
+
+3. Grant item level access instead of assigning a role. 
+
+4. You would use the partial() maksing function and grant unmask permission to roles and users who must see real values. 
+
+5. Create and assign a role. Grant SELECT for role, Deny SELECT for other roles. 
+
+6. Configure deployment rules to manage connections, (environemnt specific settings)
+
+7. Use selective deployment. 
+
+8. use autoscaling and dynamic allocation of executors and session tags to reuse Spark Sessions. 
+
+2.2 Quick Quiz Answers
+1. Use the COPY statement for loading from ADLS in the Fabric Warehouse. 
+
+2. Use the Dataflows Gen2 since it mentions full and incremental loads into a datawarehouse. 
+
+3. Switch to incremental load and use CDC if available. 
+
+4. You can use Optimize to consolidate files, use V-Order for faster querying. 
+
+5. Use an eventstream and event processor and KQL database which support real-time streaming. 
+
+6. To avoid hardcoding vbalues for a pipeline that loads multiple datasets, you can use parameters and dynamic expressions and string interpolation. 
+
+7. You shoudl use a schedule trigger. 
+
+8. You should use a Lakehouse data store
+
+3.2 Quick Quiz Answers
+
+1. Monitor Hub
+2. Check the gateway version
+3. You should add a Fail Activity with custom error message/code
+4. Autoscalling and dynamic allocations. 
+5. Enable Always-on and choose minimum consumption for lower cost. 
+6. Use Data Insights and Runtime Logs, filter by severity to identify bottle necks
+7. Enable native execution engine
+8. Use session tags to to reuse sessions and reduce startup cost. 
+
+
+
+
+                                                                     
+
+
+
+
+                                     

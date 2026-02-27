@@ -1,3 +1,4 @@
+Pre AI_Assisted Learning
 Question 1 of 50
 
 Your company is transitioning to a data mesh architecture using Microsoft Fabric.
@@ -1476,3 +1477,8 @@ Ingest and transform data
 
 Monitor and optimize an analytics solution
 
+Customized learning material to improve your skills
+Because you scored lower in "Monitor and optimize an analytics solution":
+
+Monitor activities in Microsoft Fabric
+50 mins
